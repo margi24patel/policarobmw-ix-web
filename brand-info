@@ -1,0 +1,50 @@
+/* font-family */
+/* 
+similar font:
+font-family: "Open Sans", sans-serif;; //body
+font-family: "Open Sans Condensed", sans-serif; //title
+*/
+Navigation:
+  font-family: BMWTypeNext-Light,Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  color: #6f6f6f;
+  font-weight: bold;
+
+Banner:
+  height: 367px;
+
+Button:
+  background-color: #0653b6;
+  color: #fff;
+  font-size: 14px; // 0.875rem
+  font-weight: 700;
+
+Button: Hover
+  background-color: #1653a7
+
+h1:
+  color: #fff;
+  text-transform: uppercase;
+  font-family: "BMWTypeNext-Light", Helvetica, Arial, sans-serif;
+  font-size: 48px; // 3rem
+
+h2:
+  font-size: 42px; // 2.625rem
+  line-height: 56px;
+  color: #212121;
+
+h2-section-title for each section:
+  color: #111;
+  font-size: 35px; // 2.188rem
+  text-transform: uppercase;
+  font-weight: 700;
+
+Title
+  font-size: 25px; // 1.563rem
+  color: #262626;
+
+Description text:
+  font-size: 18px; // 1.125rem 
+  color: #818992;
+  margin: 30px 0;
+
